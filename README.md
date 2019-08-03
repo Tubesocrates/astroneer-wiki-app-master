@@ -1,4 +1,11 @@
 # astroneer-wiki-app
+
+THIS APP WAS CLONED AND DOWNLOADED FOR Informational and Educational use only
+
+# Original Authors == 'chrismelnyk' and 'PlayTheTrack'
+
+Please check them out.
+
 Information for the game Astroneer made in Python with tkinter. Contains spoilers for the game, mainly in the planet biographies.
 
 
